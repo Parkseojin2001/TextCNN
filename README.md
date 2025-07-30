@@ -76,7 +76,7 @@ After training with the Stanford Sentiment Treebank (SST-2) and pre-trained Goog
 
 |**Test Loss**|**Test Accuracy**|
 |----------|---------|
-|0.3599|Test Accuracy|84.40%|
+|0.3599|84.40%|
 
 
 
